@@ -1,3 +1,3 @@
 ﻿  Source.cpp
-E:\Politech\1 курс\2 семестр\ООП\Лабораторні\LABA3\LABA3\Source.cpp(75,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-  LABA3.vcxproj -> E:\Politech\1 курс\2 семестр\ООП\Лабораторні\LABA3\Debug\LABA3.exe
+C:\denis\C#\Sem2\Lab3\Lab3\SOURCE.CPP(75,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  LABA3.vcxproj -> C:\denis\C#\Sem2\Lab3\Debug\Lab3.exe
