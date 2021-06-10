@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\Politech\1 курс\2 семестр\ООП\Лабораторні\LABA5\LABA5\Source.cpp(82,2): warning C4091: typedef : пропускается слева от "places", когда ни одна переменная не объявлена
+E:\Politech\1 курс\2 семестр\ООП\Лабораторні\LABA5\LABA5\Source.cpp(86,2): warning C4091: typedef : пропускается слева от "person", когда ни одна переменная не объявлена
+  LABA5.vcxproj -> E:\Politech\1 курс\2 семестр\ООП\Лабораторні\LABA5\Debug\LABA5.exe
