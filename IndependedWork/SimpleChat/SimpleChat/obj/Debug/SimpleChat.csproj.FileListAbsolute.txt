@@ -1,0 +1,64 @@
+D:\Downloads\SimpleChat\SimpleChat\bin\Debug\SimpleChat.exe.config
+D:\Downloads\SimpleChat\SimpleChat\bin\Debug\SimpleChat.exe
+D:\Downloads\SimpleChat\SimpleChat\bin\Debug\SimpleChat.pdb
+D:\Downloads\SimpleChat\SimpleChat\obj\Debug\ChatWindow.baml
+D:\Downloads\SimpleChat\SimpleChat\obj\Debug\MainWindow.baml
+D:\Downloads\SimpleChat\SimpleChat\obj\Debug\ChatWindow.g.cs
+D:\Downloads\SimpleChat\SimpleChat\obj\Debug\MainWindow.g.cs
+D:\Downloads\SimpleChat\SimpleChat\obj\Debug\App.g.cs
+D:\Downloads\SimpleChat\SimpleChat\obj\Debug\SimpleChat_MarkupCompile.cache
+D:\Downloads\SimpleChat\SimpleChat\obj\Debug\SimpleChat.g.resources
+D:\Downloads\SimpleChat\SimpleChat\obj\Debug\SimpleChat.Properties.Resources.resources
+D:\Downloads\SimpleChat\SimpleChat\obj\Debug\SimpleChat.csproj.GenerateResource.cache
+D:\Downloads\SimpleChat\SimpleChat\obj\Debug\SimpleChat.csproj.CoreCompileInputs.cache
+D:\Downloads\SimpleChat\SimpleChat\obj\Debug\SimpleChat.exe
+D:\Downloads\SimpleChat\SimpleChat\obj\Debug\SimpleChat.pdb
+D:\Downloads\SimpleChat\SimpleChat\obj\Debug\SimpleChat.csprojAssemblyReference.cache
+D:\Study\2 course\2 SM\C#\SimpleChat\SimpleChat\bin\Debug\SimpleChat.exe.config
+D:\Study\2 course\2 SM\C#\SimpleChat\SimpleChat\bin\Debug\SimpleChat.exe
+D:\Study\2 course\2 SM\C#\SimpleChat\SimpleChat\bin\Debug\SimpleChat.pdb
+D:\Study\2 course\2 SM\C#\SimpleChat\SimpleChat\obj\Debug\SimpleChat.csprojAssemblyReference.cache
+D:\Study\2 course\2 SM\C#\SimpleChat\SimpleChat\obj\Debug\ChatWindow.baml
+D:\Study\2 course\2 SM\C#\SimpleChat\SimpleChat\obj\Debug\MainWindow.baml
+D:\Study\2 course\2 SM\C#\SimpleChat\SimpleChat\obj\Debug\ChatWindow.g.cs
+D:\Study\2 course\2 SM\C#\SimpleChat\SimpleChat\obj\Debug\MainWindow.g.cs
+D:\Study\2 course\2 SM\C#\SimpleChat\SimpleChat\obj\Debug\App.g.cs
+D:\Study\2 course\2 SM\C#\SimpleChat\SimpleChat\obj\Debug\SimpleChat_MarkupCompile.cache
+D:\Study\2 course\2 SM\C#\SimpleChat\SimpleChat\obj\Debug\SimpleChat.g.resources
+D:\Study\2 course\2 SM\C#\SimpleChat\SimpleChat\obj\Debug\SimpleChat.Properties.Resources.resources
+D:\Study\2 course\2 SM\C#\SimpleChat\SimpleChat\obj\Debug\SimpleChat.csproj.GenerateResource.cache
+D:\Study\2 course\2 SM\C#\SimpleChat\SimpleChat\obj\Debug\SimpleChat.csproj.CoreCompileInputs.cache
+D:\Study\2 course\2 SM\C#\SimpleChat\SimpleChat\obj\Debug\SimpleChat.exe
+D:\Study\2 course\2 SM\C#\SimpleChat\SimpleChat\obj\Debug\SimpleChat.pdb
+D:\Study\2 course\2 SM\C#\Homework\2_Sem\SimpleChat\SimpleChat\bin\Debug\SimpleChat.exe.config
+D:\Study\2 course\2 SM\C#\Homework\2_Sem\SimpleChat\SimpleChat\bin\Debug\SimpleChat.exe
+D:\Study\2 course\2 SM\C#\Homework\2_Sem\SimpleChat\SimpleChat\bin\Debug\SimpleChat.pdb
+D:\Study\2 course\2 SM\C#\Homework\2_Sem\SimpleChat\SimpleChat\obj\Debug\SimpleChat.csprojAssemblyReference.cache
+D:\Study\2 course\2 SM\C#\Homework\2_Sem\SimpleChat\SimpleChat\obj\Debug\ChatWindow.baml
+D:\Study\2 course\2 SM\C#\Homework\2_Sem\SimpleChat\SimpleChat\obj\Debug\MainWindow.baml
+D:\Study\2 course\2 SM\C#\Homework\2_Sem\SimpleChat\SimpleChat\obj\Debug\ChatWindow.g.cs
+D:\Study\2 course\2 SM\C#\Homework\2_Sem\SimpleChat\SimpleChat\obj\Debug\MainWindow.g.cs
+D:\Study\2 course\2 SM\C#\Homework\2_Sem\SimpleChat\SimpleChat\obj\Debug\App.g.cs
+D:\Study\2 course\2 SM\C#\Homework\2_Sem\SimpleChat\SimpleChat\obj\Debug\SimpleChat_MarkupCompile.cache
+D:\Study\2 course\2 SM\C#\Homework\2_Sem\SimpleChat\SimpleChat\obj\Debug\SimpleChat.g.resources
+D:\Study\2 course\2 SM\C#\Homework\2_Sem\SimpleChat\SimpleChat\obj\Debug\SimpleChat.Properties.Resources.resources
+D:\Study\2 course\2 SM\C#\Homework\2_Sem\SimpleChat\SimpleChat\obj\Debug\SimpleChat.csproj.GenerateResource.cache
+D:\Study\2 course\2 SM\C#\Homework\2_Sem\SimpleChat\SimpleChat\obj\Debug\SimpleChat.csproj.CoreCompileInputs.cache
+D:\Study\2 course\2 SM\C#\Homework\2_Sem\SimpleChat\SimpleChat\obj\Debug\SimpleChat.exe
+D:\Study\2 course\2 SM\C#\Homework\2_Sem\SimpleChat\SimpleChat\obj\Debug\SimpleChat.pdb
+D:\Study\2 course\2 SM\C#\Homework_2\SimpleChat\SimpleChat\bin\Debug\SimpleChat.exe.config
+D:\Study\2 course\2 SM\C#\Homework_2\SimpleChat\SimpleChat\bin\Debug\SimpleChat.exe
+D:\Study\2 course\2 SM\C#\Homework_2\SimpleChat\SimpleChat\bin\Debug\SimpleChat.pdb
+D:\Study\2 course\2 SM\C#\Homework_2\SimpleChat\SimpleChat\obj\Debug\SimpleChat.csprojAssemblyReference.cache
+D:\Study\2 course\2 SM\C#\Homework_2\SimpleChat\SimpleChat\obj\Debug\ChatWindow.baml
+D:\Study\2 course\2 SM\C#\Homework_2\SimpleChat\SimpleChat\obj\Debug\MainWindow.baml
+D:\Study\2 course\2 SM\C#\Homework_2\SimpleChat\SimpleChat\obj\Debug\ChatWindow.g.cs
+D:\Study\2 course\2 SM\C#\Homework_2\SimpleChat\SimpleChat\obj\Debug\MainWindow.g.cs
+D:\Study\2 course\2 SM\C#\Homework_2\SimpleChat\SimpleChat\obj\Debug\App.g.cs
+D:\Study\2 course\2 SM\C#\Homework_2\SimpleChat\SimpleChat\obj\Debug\SimpleChat_MarkupCompile.cache
+D:\Study\2 course\2 SM\C#\Homework_2\SimpleChat\SimpleChat\obj\Debug\SimpleChat.g.resources
+D:\Study\2 course\2 SM\C#\Homework_2\SimpleChat\SimpleChat\obj\Debug\SimpleChat.Properties.Resources.resources
+D:\Study\2 course\2 SM\C#\Homework_2\SimpleChat\SimpleChat\obj\Debug\SimpleChat.csproj.GenerateResource.cache
+D:\Study\2 course\2 SM\C#\Homework_2\SimpleChat\SimpleChat\obj\Debug\SimpleChat.csproj.CoreCompileInputs.cache
+D:\Study\2 course\2 SM\C#\Homework_2\SimpleChat\SimpleChat\obj\Debug\SimpleChat.exe
+D:\Study\2 course\2 SM\C#\Homework_2\SimpleChat\SimpleChat\obj\Debug\SimpleChat.pdb

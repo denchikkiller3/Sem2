@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\SimpleChat\SimpleChat\bin\Release\SimpleChat.exe.config
+C:\Users\Admin\Desktop\SimpleChat\SimpleChat\bin\Release\SimpleChat.exe
+C:\Users\Admin\Desktop\SimpleChat\SimpleChat\bin\Release\SimpleChat.pdb
+C:\Users\Admin\Desktop\SimpleChat\SimpleChat\obj\Release\ChatWindow.baml
+C:\Users\Admin\Desktop\SimpleChat\SimpleChat\obj\Release\MainWindow.baml
+C:\Users\Admin\Desktop\SimpleChat\SimpleChat\obj\Release\ChatWindow.g.cs
+C:\Users\Admin\Desktop\SimpleChat\SimpleChat\obj\Release\MainWindow.g.cs
+C:\Users\Admin\Desktop\SimpleChat\SimpleChat\obj\Release\App.g.cs
+C:\Users\Admin\Desktop\SimpleChat\SimpleChat\obj\Release\SimpleChat_MarkupCompile.cache
+C:\Users\Admin\Desktop\SimpleChat\SimpleChat\obj\Release\SimpleChat.g.resources
+C:\Users\Admin\Desktop\SimpleChat\SimpleChat\obj\Release\SimpleChat.Properties.Resources.resources
+C:\Users\Admin\Desktop\SimpleChat\SimpleChat\obj\Release\SimpleChat.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\SimpleChat\SimpleChat\obj\Release\SimpleChat.exe
+C:\Users\Admin\Desktop\SimpleChat\SimpleChat\obj\Release\SimpleChat.pdb
